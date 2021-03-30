@@ -1,6 +1,9 @@
-#p2{
-display:none;
+#spisok1{
+list-style-type:disk;
 }
-#p4{
-visibility:hidden;
+#spisok2{
+list-style-type:circle;
+}
+#spisok3{
+list-style-type:square;
 }
