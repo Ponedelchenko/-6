@@ -1,3 +1,3 @@
-#spisok{
-list-style-image:url(marker.gif);
+#spisok1{
+list-style:circle url(marker.gif) inside;
 }
